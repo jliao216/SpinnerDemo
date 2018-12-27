@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sport">
+        <item>Golf</item>
+        <item>Tennis</item>
+        <item>Bicycle</item>
+        <item>PingPong</item>
+        <item>Fishing</item>
+    </string-array>
+</resources>
